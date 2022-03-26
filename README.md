@@ -1,6 +1,6 @@
 # S-ADRC
 
-Some examples for suboptimal active disturbance rejection controller (S-ADRC) applied to unknown time-varying second-order nonlinear systems. 
+Some examples for suboptimal active disturbance rejection controller (S-ADRC) applied to unknown time-varying second-order nonlinear systems. A reference will be added after acceptance for publication. 
 
 ## File(s)
 
